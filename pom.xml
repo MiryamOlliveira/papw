@@ -24,7 +24,7 @@
 	<sonar.projectKey>MiryamOlliveira_papw</sonar.projectKey>
   <sonar.organization>miryamolliveira</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>4c56a56c8fa5f0cdd75c03e5a460c3617df08880</sonar.login>
+  <sonar.login>b2f7d841ae84ebd659b03cd0403d649004c166c9</sonar.login>
 		
 </properties>
 
